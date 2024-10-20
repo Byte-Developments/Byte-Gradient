@@ -1,5 +1,5 @@
-# ThiccRGB
-ThiccMC's RGB Gradient Generator
+# Byte Gradient
+ByteMC's RGB Gradient Generator
 
 Useful for setting MOTD, `/nick` and prefixes (ranks).
 
